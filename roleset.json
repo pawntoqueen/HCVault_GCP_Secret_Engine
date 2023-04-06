@@ -1,0 +1,7 @@
+{
+    "project":      "ninth-keyword-378513",
+    "secret_type":  "access_token",
+    "token_scopes": "https://www.googleapis.com/auth/cloud-platform",
+    "bindings": "resource \"//cloudresourcemanager.googleapis.com/projects/ninth-keyword-378513\"{roles = [\"roles/editor\"]}"
+}
+
